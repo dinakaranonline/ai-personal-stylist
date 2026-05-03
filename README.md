@@ -1,7 +1,7 @@
-## Aura Style (AI Personal Stylist)
+## Aura 10/10 (AI Personal Stylist)
 
 ## 1. Executive Summary
-Aura Style is an AI-powered personal stylist application designed to help users refine their aesthetic, manage their wardrobes intelligently, and make smarter purchasing decisions. Unlike generic fashion apps, Aura Style acts as an analytical, personalized advisor. It learns a user's unique style through photo uploads and interactive feedback, generates a definitive "Core Style Profile", and uses this profile as the ultimate source of truth to power features like virtual try-ons, wardrobe gap analysis, and pre-purchase validation. The goal is to empower users to build a cohesive, intentional wardrobe over time.
+Aura 10/10 is an AI-powered personal stylist application designed to help users refine their aesthetic, manage their wardrobes intelligently, and make smarter purchasing decisions. Unlike generic fashion apps, Aura 10/10 acts as an analytical, personalized advisor. It learns a user's unique style through photo uploads and interactive feedback, generates a definitive "Core Style Profile", and uses this profile as the ultimate source of truth to power features like virtual try-ons, wardrobe gap analysis, and pre-purchase validation. The goal is to empower users to build a cohesive, intentional wardrobe over time.
 
 ---
 
