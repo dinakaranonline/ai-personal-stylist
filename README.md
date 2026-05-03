@@ -1,20 +1,11 @@
-# Product Requirement Document (PRD)
-**Project Name:** Aura Style (AI Personal Stylist)
+### Aura Style (AI Personal Stylist)
 
 ## 1. Executive Summary
 Aura Style is an AI-powered personal stylist application designed to help users refine their aesthetic, manage their wardrobes intelligently, and make smarter purchasing decisions. Unlike generic fashion apps, Aura Style acts as an analytical, personalized advisor. It learns a user's unique style through photo uploads and interactive feedback, generates a definitive "Core Style Profile", and uses this profile as the ultimate source of truth to power features like virtual try-ons, wardrobe gap analysis, and pre-purchase validation. The goal is to empower users to build a cohesive, intentional wardrobe over time.
 
 ---
 
-## 2. Global Design System
-All features will adhere to the strictly defined **Aura Style Design System** to ensure a premium, unified experience:
-* **Layout:** Persistent left sidebar navigation.
-* **Colors:** Alabaster/Off-White (`#F7F5F0`) background, Dark Navy (`#1A2B4C`) primary sidebar and accents, Muted Olive (`#6B705C`) secondary accents.
-* **Typography:** Elegant Serif headers (e.g., Playfair Display) paired with clean Sans-Serif body text (e.g., Inter).
-
----
-
-## 3. Core Use Cases & Requirements
+## 2. Core Use Cases & Requirements
 
 ### Group 1: The Foundation
 *Establishing the user's aesthetic and analyzing their current inventory.*
