@@ -7,10 +7,10 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 
 ## 2. Core Use Cases & Requirements
 
-### Group 1: The Foundation
+### Aura AI - Your Personal Stylist Assistant
 *Establishing the user's aesthetic and analyzing their current inventory.*
 
-#### Use Case 1: Interactive Style Profiling (Onboarding)
+#### Interactive Style Profiling (Onboarding)
 **Objective:** Capture user preferences and generate a personalized Style Profile.
 **Requirements:**
 1. **Bulk Upload:** Allow users to drag-and-drop multiple "good" and "bad" outfit photos.
@@ -28,7 +28,7 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 *Step 4: The Final Core Style Profile*
 ![Unified Style Profile](./docs/assets/unified_style_profile_ui_v2_1777777523926.png)
 
-#### Use Cases 2 & 3: Intelligent Virtual Wardrobe & Gap Analysis
+####  Intelligent Virtual Wardrobe & Gap Analysis
 **Objective:** Digitally catalog the user's clothing and identify missing foundational pieces.
 **Requirements:**
 1. **Digital Closet:** Display uploaded clothing items in a clean, categorized grid.
@@ -40,10 +40,10 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 
 ---
 
-### Group 2: The Assistant
+### Aura AI - Your Personal Shopping Assistant
 *Decision-support tools for smarter styling and purchasing.*
 
-#### Use Case 4: Pre-Purchase Validation
+#### Pre-Purchase Validation
 **Objective:** Prevent buyer's remorse by scoring potential purchases against the user's profile.
 **Requirements:**
 1. **URL Input:** Allow the user to paste a URL of a clothing item they are considering buying.
@@ -53,7 +53,7 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 **Associated Mockup:**
 ![Pre-Purchase Validation](./docs/assets/unified_validation_ui_v2_1777777555811.png)
 
-#### Use Case 5: Outfit & Accessory Styling
+####  Outfit & Accessory Styling
 **Objective:** Help users build complete outfits around a specific garment.
 **Requirements:**
 1. Select any item from the Virtual Wardrobe.
@@ -62,7 +62,7 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 **Associated Mockup:**
 ![Outfit Styling](./docs/assets/validation_styling_ui_1777775131294.png)
 
-#### Use Case 6: Virtual Try-On
+####  Virtual Try-On
 **Objective:** Visually demonstrate how a selected garment will look on the user.
 **Requirements:**
 1. Utilize a vision API (e.g., IDM-VTON) to overlay a selected garment onto a base photo of the user.
@@ -73,10 +73,10 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 
 ---
 
-### Group 3: Discovery
+### Aura - Your Personal Discovery Assistant
 *Finding new inspiration.*
 
-#### Use Case 7: Smart Recommendations
+####  Smart Recommendations
 **Objective:** Provide a highly curated shopping feed tailored to the user's specific aesthetic.
 **Requirements:**
 1. Automatically fetch and display garments from the web that align with the user's Style Profile and fill their Wardrobe Gaps.
