@@ -85,3 +85,17 @@ Aura Style is an AI-powered personal stylist application designed to help users 
 
 **Associated Mockup:**
 ![Smart Recommendations](./docs/assets/unified_recommendations_ui_v2_1777777572001.png)
+
+---
+
+### Aura AI - The Omnipresent Chat Assistant
+*Bringing your wardrobe data to life through conversation.*
+
+#### "Ask Aura" Conversational Stylist
+**Objective:** Provide a persistent, hyper-personalized chat interface that leverages the user's wardrobe data to offer styling advice.
+**Requirements:**
+1. **Context Awareness:** Silently feed the user's Core Style Profile, Virtual Wardrobe inventory, and Wardrobe Gaps as context to the AI for every query.
+2. **Event Styling:** Allow users to ask for outfit recommendations from their existing closet for specific events (e.g., "What should I wear to a cocktail party?").
+3. **Purchase Advice:** Allow users to ask for second opinions on items before buying, checking against their Do's and Don'ts.
+4. **Packing Assistant:** Generate mix-and-match capsule wardrobes from the user's closet for upcoming trips.
+5. **UI Integration:** Implement as a persistent, floating chat window accessible from any screen within the application.
